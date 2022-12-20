@@ -1,4 +1,4 @@
-ls## BOJ 11724 <연결 요소의 개수>
+## BOJ 11724 <연결 요소의 개수>
 
 - [문제 원본](https://www.acmicpc.net/problem/11724)
 - [11724.py](11724.py)
